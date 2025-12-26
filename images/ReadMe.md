@@ -1,2 +1,2 @@
 ## 📸 Screenshots
-![Project](Projectlist.png)
+![Project](projectlist.png)
